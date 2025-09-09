@@ -36,50 +36,45 @@ A full-stack web application built using the **MERN stack** (MongoDB, Express, R
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/product-management-dashboard.git
-cd product-management-dashboard
+git clone https://github.com/itz-anas/My_Basket.git
+```
 2. Setup Environment Variables
 Create a .env file in the server/ directory:
 
 env
-Copy
-Edit
+```bash
 MONGO_URI=your_mongodb_connection_string
 PORT=5000
+```
 3. Install Dependencies
 Backend
-bash
-Copy
-Edit
-cd server
+```bash
+cd backend/
 npm install
+```
 Frontend
-bash
-Copy
-Edit
-cd client
+```bash
+cd frontend/
 npm install
+```
 4. Run the Application
 Backend
-bash
-Copy
-Edit
+```bash
 npm run dev
+```
 Frontend
-bash
-Copy
-Edit
+```bash
 npm run dev
+```
 Your app should now be running on:
-
+```bash
 Frontend: http://localhost:5173
 
 Backend: http://localhost:5000
-
+```
 📁 Project Structure
-bash
-Copy
-Edit
+```bash
+
 .
 ├── client/             # React frontend
 │   ├── components/
@@ -93,6 +88,7 @@ Edit
 │   └── ...
 ├── README.md
 └── .env
+```
 🧠 Concepts Covered
 Building REST APIs with Express
 
@@ -112,18 +108,15 @@ Contributions are welcome! Please fork the repo and open a pull request with you
 📄 License
 This project is licensed under the MIT License.
 
-💬 Feedback
-Have ideas or suggestions? Open an issue or reach out directly.
 
-yaml
-Copy
-Edit
+
 
 ---
+## 📬 Contact & Profiles
 
-Let me know if your project has auth, deployment (e.g. Vercel or Render), or a custom domain so I can tailor this further!
+- **Email:** [infodeveloper.mail@gmail.com](mailto:infodeveloper.mail@gmail.com)  
+- **GitHub:** [itz-anas](https://github.com/itz-anas)  
+- **LinkedIn:** [Mohammed Anas](https://www.linkedin.com/in/mohammedanas16/)  
 
-
-contact me for more details ---- anasali0029@gmail.com
-Github ---- 1m-anas
-Linkedln ---- https://www.linkedin.com/in/mohammedanas16/
+---
+💡 *Feel free to connect with me for collaborations, open-source contributions, or tech discussions.*
